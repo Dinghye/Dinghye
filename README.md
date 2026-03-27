@@ -10,31 +10,27 @@
 ---
 
 ### Tech Stack
-
-`Python` `PyTorch` `Transformers` `Docker` `Git`  
-`Remote Sensing` `GIS` `Google Earth Engine` `Raster/Vector Processing`
-
----
-
-### Selected Work
-
-- Remote Sensing Foundation Models: mechanisms, limitations, and best practices
-- GIS knowledge-guided geo-agents for reliable multi-step workflows
-- Open-world and continual learning for remote sensing image understanding
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dinghye&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinghye&layout=compact&hide_border=true" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" />
 </p>
 
-### Activity
+<p>
+  <img src="https://img.shields.io/badge/Remote%20Sensing-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GIS-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Geospatial%20ML-333333?style=for-the-badge" />
+</p>
 
+
+---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinghye&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=dinghye&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <!--
