@@ -9,7 +9,7 @@
 
 ---
 
-### Core Tools
+#### Core Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -17,7 +17,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### ML & Foundation Models
+#### ML & Foundation Models
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TorchGeo](https://img.shields.io/badge/-TorchGeo-7E57C2?style=flat-square)
 ![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -26,7 +26,7 @@
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 
-### Geospatial Toolkit
+#### Geospatial Toolkit
 ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-2C7AC3?style=flat-square)
