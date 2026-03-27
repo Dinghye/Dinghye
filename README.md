@@ -6,9 +6,22 @@
 - 🌐 Portfolio: https://dinghye.github.io
 - 📫 How to reach me: dingqi2@illinois.edu
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinghye&show_icons=true)
+### GitHub Stats
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinghye&theme=github_dark)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dinghye&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinghye&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinghye&hide_border=true" />
+</p>
+
+
 
 <!--
 **Dinghye/Dinghye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
