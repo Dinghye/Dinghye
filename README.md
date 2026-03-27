@@ -1,37 +1,31 @@
 
-<h1 align="center">Hi 👋</h1>
+## Hi 👋,
 
 
 - 🌱 I’m currently Ph.D Student at University of Illinois Urbana-Champaign.
 - 🔭 I’m currently working on remote sensing, foundation model, representation learning
 - 🌐 Portfolio: https://dinghye.github.io
 - 📫 How to reach me: dingqi2@illinois.edu
-- 
----
-
-### Tech Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Remote%20Sensing-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GIS-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Geospatial%20ML-333333?style=for-the-badge" />
-</p>
-
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinghye&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
+### Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ML / Research
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Geospatial
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
 
 <!--
 **Dinghye/Dinghye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
