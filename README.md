@@ -4,7 +4,7 @@
 
 🌱 I’m currently Ph.D Student at University of Illinois Urbana-Champaign.
 
-🔭 I’m currently working on remote sensing, foundation model, representation learning
+🔭 I’m currently working on remote sensing, foundation model, representative learning
 
 🌐 Portfolio: https://dinghye.github.io
 
